@@ -1,0 +1,9 @@
+D:\The Science\диплом\app v3\app\x64\Debug\app.vcxproj.AssemblyReference.cache
+D:\The Science\диплом\app v3\app\x64\Debug\app.MyForm.resources
+D:\The Science\диплом\app v3\app\x64\Debug\app.vcxproj.GenerateResource.cache
+D:\The Science\диплом\app v4\app\x64\Debug\app.vcxproj.AssemblyReference.cache
+D:\The Science\диплом\app v4\app\x64\Debug\app.MyForm.resources
+D:\The Science\диплом\app v4\app\x64\Debug\app.vcxproj.GenerateResource.cache
+D:\The Science\PGU\диплом\app v4\app\x64\Debug\app.vcxproj.AssemblyReference.cache
+D:\The Science\PGU\диплом\app v4\app\x64\Debug\app.MyForm.resources
+D:\The Science\PGU\диплом\app v4\app\x64\Debug\app.vcxproj.GenerateResource.cache
